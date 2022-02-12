@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ThemeXML</string>
+
+    <string name='app_title'>Spring 2022</string>
+
+    <string name="motivational_quote">Who\'s gonna carry the boats and the logs? \n- David Goggins</string>
+    <string name="my_courses">My Courses</string>
+
+    <string name="csc_317">CSC 317 - Mobile Application Programming</string>
+    <string name="csc_317_description">
+        Class Days and Times: Monday, Wednesday - 9:30AM - 10:45AM \nLocation: Engineering, Rm 318
+    </string>
+
+    <string name="csc_352">CSC 352 - System Programming and Unix</string>
+    <string name="csc_352_description">
+        Class Days and Times: Monday, Wednesday - 2:00PM - 3:15PM \nLocation: M Pacheco ILC, Rm 130
+    </string>
+
+    <string name="csc_343">CSC 343 - Human Computer Interaction</string>
+    <string name="csc_343_description">
+        Class Days and Times: Tuesday, Thursday - 9:30AM - 10:45AM \nLocation: M Pacheco ILC, Rm 125
+    </string>
+
+    <string name="geos_251">GEOS 251 - Physical Geology </string>
+    <string name="geos_251_description">
+        Class Days and Times: Tuesday, Thursday - 11:00AM - 12:15PM \nLocation: Gallagher Theatre
+    </string>
+
+    <string name="reli_367">RELI 367 - YOGA </string>
+    <string name="reli_367_description">
+        Class Days and Times: 7 Week \nLocation: Online
+    </string>
+
+</resources>
